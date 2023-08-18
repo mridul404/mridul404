@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Mridul</h1>
-<h4 align="left">I'm currently pursuing Mechatronics Engineering at Rajshahi University of Engineering & Technology. I have a keen interest in Deep Learning, often spending my free time reading research papers on deep learning and experimenting with different architectural approaches. I enjoy working with image, video, and audio data, and I'm quite proficient with PyTorch.</h3>
+<h4 align="justfy">I'm currently pursuing Mechatronics Engineering at Rajshahi University of Engineering & Technology. I have a keen interest in Deep Learning, often spending my free time reading research papers on deep learning and experimenting with different architectural approaches. I enjoy working with image, video, and audio data, and I'm quite proficient with PyTorch.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

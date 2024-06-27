@@ -1,4 +1,4 @@
-👋 Hi, I'm Mehedi Hasan Mridul
+<h2>👋 Hi, I'm Mehedi Hasan Mridul</h2>
 
 🚀 Mechatronics Engineering graduate from RUET
 
